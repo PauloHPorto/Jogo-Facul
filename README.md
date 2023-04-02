@@ -1,2 +1,2 @@
 # Jogo-Code-Space
- Jogo com os ensinamentos da faculdade
+Um Space Invaders baseado no mesmo da época do Atari 2600.
